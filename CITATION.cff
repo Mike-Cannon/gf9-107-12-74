@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite the preprint for the paper and the original dataset for the generator matrices."
+title: "A linear [107,12,74] code over GF(9)"
+type: dataset
+authors:
+  - family-names: Cannon
+    given-names: Mike
+doi: 10.5281/zenodo.24611880
+repository-code: https://github.com/Mike-Cannon/gf9-107-12-74
+preferred-citation:
+  type: unpublished
+  title: "A New Linear Code over GF(9)"
+  authors:
+    - family-names: Cannon
+      given-names: Mike
+  year: 2026
+  doi: 10.5281/zenodo.24630883
+  url: https://doi.org/10.5281/zenodo.24630883

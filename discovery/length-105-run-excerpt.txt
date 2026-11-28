@@ -1,0 +1,5 @@
+lengthen chen_n105_k11_d74_m35_c1_i161.txt: need e>=71; lengthen: n=105 k=11 blocks=3 candidates=91 need=71 hits=6 best=72
+NEW [105,12,72] (record 71) by lengthen0 from data/chen/chen_n105_k11_d74_m35_c1_i161.txt -> new/NEW_n105_k12_d72_lengthen0_chen_n105_k11_d74_m35_c1_i161.txt
+NEW [106,12,73] (record 71) by lengthen1 from data/chen/chen_n105_k11_d74_m35_c1_i161.txt -> new/NEW_n106_k12_d73_lengthen1_chen_n105_k11_d74_m35_c1_i161.txt
+NEW [107,12,74] (record 72) by lengthen2 from data/chen/chen_n105_k11_d74_m35_c1_i161.txt -> new/NEW_n107_k12_d74_lengthen2_chen_n105_k11_d74_m35_c1_i161.txt
+NEW [108,12,74] (record 73) by lengthen3 from data/chen/chen_n105_k11_d74_m35_c1_i161.txt -> new/NEW_n108_k12_d74_lengthen3_chen_n105_k11_d74_m35_c1_i161.txt
